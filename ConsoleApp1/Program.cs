@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("hello world");
             Console.ReadLine();
+            Console.WriteLine("changed");
         }
     }
 }
